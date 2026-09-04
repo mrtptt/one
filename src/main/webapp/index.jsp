@@ -1686,7 +1686,7 @@
         document.getElementById('year').textContent = new Date().getFullYear();
 
         // ============================================================
-        // INIT
+        // INIT 
         // ============================================================
         renderCategories();
         renderProducts(PRODUCTS);
